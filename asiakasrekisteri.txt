@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<asiakkaat>
+    <asiakas>
+        <etunimi>Matti</etunimi>
+	<sukunimi>Palola</sukunimi>
+	<puhelinnumero>0402438857</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Leo</etunimi>
+	<sukunimi>Komarov</sukunimi>
+	<puhelinnumero>0459213352</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>85</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Lilja</etunimi>
+	<sukunimi>Pettula</sukunimi>
+	<puhelinnumero>0445909857</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Saija</etunimi>
+	<sukunimi>Pettula</sukunimi>
+	<puhelinnumero>0417858088</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Saara</etunimi>
+	<sukunimi>Keisi</sukunimi>
+	<puhelinnumero>0409473129</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>85</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Michael</etunimi>
+	<sukunimi>Sidney</sukunimi>
+	<puhelinnumero>0459617734</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Lasse-Pekka</etunimi>
+	<sukunimi>Siipilä</sukunimi>
+	<puhelinnumero>0402926407</puhelinnumero>
+	<taloyhtio>As Oy Koivupuisto</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>85</neliot>
+	<isannoitsija>Kiira Luode</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Kerttu</etunimi>
+	<sukunimi>Rissanen</sukunimi>
+	<puhelinnumero>0507458832</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Pasi</etunimi>
+	<sukunimi>Rissanen</sukunimi>
+	<puhelinnumero>05458546320</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Jesper</etunimi>
+	<sukunimi>Kataja</sukunimi>
+	<puhelinnumero>0459472432</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>36</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+    <asiakas>
+	<etunimi>Pihla</etunimi>
+	<sukunimi>Swanson</sukunimi>
+	<puhelinnumero>0419354467</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>2h+k</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Petri</etunimi>
+	<sukunimi>Korasov</sukunimi>
+	<puhelinnumero>0402866757</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Siiri</etunimi>
+	<sukunimi>Vahtonen</sukunimi>
+	<puhelinnumero>0418469387</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>36</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Keijo</etunimi>
+	<sukunimi>Otsola</sukunimi>
+	<puhelinnumero>0402962434</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Osmo</etunimi>
+	<sukunimi>Otsola</sukunimi>
+	<puhelinnumero>0506002349</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Christina</etunimi>
+	<sukunimi>Kallenberg</sukunimi>
+	<puhelinnumero>0409466645</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k</tyyppi>
+	<neliot>64</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Mehmed</etunimi>
+	<sukunimi>Ahijal</sukunimi>
+	<puhelinnumero>0417564112</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>36</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Pekka</etunimi>
+	<sukunimi>Paavola</sukunimi>
+	<puhelinnumero>0442868142</puhelinnumero>
+	<taloyhtio>As Oy Metsänlaita</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>3h+k</tyyppi>
+	<neliot>80</neliot>
+	<isannoitsija>Miki Penttilä</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Helmi-Leena</etunimi>
+	<sukunimi>Eriksson</sukunimi>
+	<puhelinnumero>0441426521</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>60</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Liam</etunimi>
+	<sukunimi>Shéton</sukunimi>
+	<puhelinnumero>0418472233</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>32</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Sisko</etunimi>
+	<sukunimi>Wallén</sukunimi>
+	<puhelinnumero>0407244743</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>60</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Joona</etunimi>
+	<sukunimi>Siissel</sukunimi>
+	<puhelinnumero>0453337254</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>32</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Eeva-Kerttu</etunimi>
+	<sukunimi>Tammela</sukunimi>
+	<puhelinnumero>05084665465</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>60</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Alex</etunimi>
+	<sukunimi>Leutola</sukunimi>
+	<puhelinnumero>0400786543</puhelinnumero>
+	<taloyhtio>As Oy Lappila</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>1h+k</tyyppi>
+	<neliot>32</neliot>
+	<isannoitsija>Sebastian Vuori</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Aapeli</etunimi>
+	<sukunimi>Kenttäniemi</sukunimi>
+	<puhelinnumero>0507243555</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Lila</etunimi>
+	<sukunimi>Utsola</sukunimi>
+	<puhelinnumero>0407175354</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Mirka</etunimi>
+	<sukunimi>Outila</sukunimi>
+	<puhelinnumero>0446351112</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Marianne</etunimi>
+	<sukunimi>Outila</sukunimi>
+	<puhelinnumero>0446351112</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Petrus</etunimi>
+	<sukunimi>Kivipetäjä</sukunimi>
+	<puhelinnumero>0408462876</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Unna</etunimi>
+	<sukunimi>Mikkola</sukunimi>
+	<puhelinnumero>0418885469</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>A</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>62</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Timo</etunimi>
+	<sukunimi>Appeldrum</sukunimi>
+	<puhelinnumero>0449216593</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Pauliina</etunimi>
+	<sukunimi>Appeldrum</sukunimi>
+	<puhelinnumero>0448570001</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Aakem</etunimi>
+	<sukunimi>Shiskov</sukunimi>
+	<puhelinnumero>0448344523</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Inna</etunimi>
+	<sukunimi>Shiskov</sukunimi>
+	<puhelinnumero>0407561112</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Evelina</etunimi>
+	<sukunimi>Shiskov</sukunimi>
+	<puhelinnumero>0448344523</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Kirill</etunimi>
+	<sukunimi>Babits</sukunimi>
+	<puhelinnumero>04077113546</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>B</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>62</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Rauno-Pekka</etunimi>
+	<sukunimi>Ålken</sukunimi>
+	<puhelinnumero>0503957241</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Diana</etunimi>
+	<sukunimi>Kujansuu</sukunimi>
+	<puhelinnumero>0443756465</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Marten</etunimi>
+	<sukunimi>Erkko</sukunimi>
+	<puhelinnumero>0454078654</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Mia</etunimi>
+	<sukunimi>Hallikainen-Perttunen</sukunimi>
+	<puhelinnumero>0416562947</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>C</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>62</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Ellinoora</etunimi>
+	<sukunimi>Siusniemi</sukunimi>
+	<puhelinnumero>05408120064</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>D</rappu>
+	<asuntonro>1</asuntonro>
+	<tyyppi>3h+k+s</tyyppi>
+	<neliot>73</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Miikka</etunimi>
+	<sukunimi>Laurén</sukunimi>
+	<puhelinnumero>0447650085</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>D</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Miranda</etunimi>
+	<sukunimi>Laurén</sukunimi>
+	<puhelinnumero>0456497265</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>D</rappu>
+	<asuntonro>2</asuntonro>
+	<tyyppi>4h+k+s</tyyppi>
+	<neliot>87</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+     <asiakas>
+	<etunimi>Kasper</etunimi>
+	<sukunimi>Hiuskola</sukunimi>
+	<puhelinnumero>040860023</puhelinnumero>
+	<taloyhtio>As Oy Keskikatu</taloyhtio>
+	<rappu>D</rappu>
+	<asuntonro>3</asuntonro>
+	<tyyppi>2h+k+s</tyyppi>
+	<neliot>62</neliot>
+	<isannoitsija>Sasha Barekov</isannoitsija>
+    </asiakas>
+
+</asiakkaat>
+
